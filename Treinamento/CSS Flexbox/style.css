@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+ .background{
+  
+
+  width: 80%;
+  display: block;
+  background: #213a7f;
+  margin: auto;
+  min-height: 80vh;
+ }
+.div-grid{
+  display: flex;
+  height: 80vh;
+}
+.div-grid2{
+  display: flex;
+  height: 100%;
+}
+.div-grid3{
+  display: flex;
+  height: 16%;
+}
+.div-grid4{
+  display: flex;
+  height: 40%;
+}
+.div-direita,.div-esquerda{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  
+}
+.Box1{
+  background-color: palevioletred;
+  width: 100%;
+  height: 15%;
+  margin: 20px;
+}
+.Box2{
+  background-color: palevioletred;
+  width: 95%;
+  height: 60%;
+  margin-left: 20px;
+}
+.Box3{
+  background-color: palevioletred;
+  width: 95%;
+  height: 30.5%;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.Box4{
+  background-color: palevioletred;
+  width: 100%;
+  height: 95%;
+  margin-left: 20px;
+}
+.Box5{
+  background-color: palevioletred;
+  width: 75%;
+  height: 76%;
+  margin-top: 20px;
+  margin-left: 75px;
+}
+.Box6{
+  background-color: palevioletred;
+  width: 75%;
+  height: 76%;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.Box7{
+  background-color: palevioletred;
+  height: 25%;
+  width: 76%;
+  margin-left: 74px;
+  margin-top: 18px;
+}
+.Box8{
+  background-color: palevioletred;
+  height: 60%;
+  width: 76%;
+  margin-left: 74px;
+  margin-top: 15px;
+}
+.Box9{
+  background-color: palevioletred;
+  height: 60%;
+  width: 76%;
+  margin-left: 30px;
+  margin-top: 18px;
+}
+.Box10{
+  background-color: palevioletred;
+  height: 25%;
+  width: 76%;
+  margin-left: 30px;
+  margin-top: 15px;
+}
+.Box11{
+  background-color: palevioletred;
+  height: 18%;
+  width: 80%;
+  margin-left: 74px;
+  margin-top: 10px;
+}
+.Box12{
+  background-color: palevioletred;
+  height: 18%;
+  width: 80%;
+  margin-left: 74px;
+  margin-top: 10px;
+}
